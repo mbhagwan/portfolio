@@ -1,5 +1,6 @@
-My Projects Portfolio  
-This repository contains the following projects:
-* ETL using Python
-* Webscraping in Python
-* Power BI Data Analysis & Visualization
+__My Projects Portfolio__
+
+List of projects:
+* _ETL using Python_
+* _Webscraping in Python__
+* _Power BI Data Analysis & Visualization_
