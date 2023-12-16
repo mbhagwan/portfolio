@@ -1,4 +1,4 @@
-__My Projects Portfolio__
+* My Projects Portfolio
 
 List of projects:   
 *Python*
