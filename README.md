@@ -1,6 +1,6 @@
 ## Projects Portfolio
 
-### List of projects   
+### List of projects:  
 
 #### Python
   * _[ETL using Python](https://github.com/mbhagwan/portfolio/tree/main/etl-using-python)_
