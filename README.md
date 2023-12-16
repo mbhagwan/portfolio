@@ -8,5 +8,5 @@
   * _[Webscraping in Python](https://github.com/mbhagwan/portfolio/tree/main/webscraping-in-python)_
   * _[Simulated Repeated Measurements to Compute Probabilities](https://github.com/mbhagwan/portfolio/blob/main/simulated-repeated-measurements-to-compute-probabilities.ipynb)_
 
-#### Power BI
+#### Power BI | DAX | Power Query | Power Pivot
  * _[Power BI Data Analysis & Visualization](https://github.com/mbhagwan/portfolio/tree/main/powerbi-data-analysis-and-visualization)_
