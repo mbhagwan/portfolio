@@ -12,4 +12,4 @@
  * _[Power BI Data Analysis & Visualization](https://github.com/mbhagwan/portfolio/tree/main/powerbi-data-analysis-and-visualization)_
 
 #### SQL
- * _[SQL Data Analysis](https://github.com/mbhagwan/portfolio/tree/main/data-analysis-in-sql)_
+ * _[Data Analysis in SQL](https://github.com/mbhagwan/portfolio/tree/main/data-analysis-in-sql)_
