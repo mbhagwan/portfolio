@@ -10,3 +10,6 @@
 
 #### Power BI | DAX | Power Query | Power Pivot
  * _[Power BI Data Analysis & Visualization](https://github.com/mbhagwan/portfolio/tree/main/powerbi-data-analysis-and-visualization)_
+
+#### SQL
+ * _[SQL Data Analysis]()_
