@@ -5,7 +5,7 @@
 #### Python
   * _[Python: Extract-Transform-Load](https://github.com/mbhagwan/portfolio/tree/main/python-extract-transform-load)_
   * _[Python: Investigating Netflix Movies](https://github.com/mbhagwan/portfolio/tree/main/python-investigating-netflix-movies)_
-  * _[Python: Investigating Netflix Movies](https://github.com/mbhagwan/portfolio/tree/main/python-investigating-netflix-movies)_
+  * _[Python: Analyzing NYC Public School Test Scores](https://github.com/mbhagwan/portfolio/tree/main/python-nyc-public-school-test-scores)_
   * _[Webscraping in Python](https://github.com/mbhagwan/portfolio/tree/main/webscraping-in-python)_
   * _[Simulated Repeated Measurements to Compute Probabilities](https://github.com/mbhagwan/portfolio/blob/main/simulated-repeated-measurements-to-compute-probabilities.ipynb)_
 
