@@ -10,7 +10,7 @@
   * _[Python: Computing Probabilities](https://github.com/mbhagwan/portfolio/blob/main/python-computing-probabilities.ipynb)_
 
 #### Power BI | DAX | Power Query | Power Pivot
- * _[Power BI Data Analysis & Visualization](https://github.com/mbhagwan/portfolio/tree/main/powerbi-data-analysis-and-visualization)_
+ * _[Power-BI: Data Analysis - AdventureWorks ](https://github.com/mbhagwan/portfolio/tree/main/powerbi-data-analysis-adventureworks)_
 
 #### SQL
  * _[Data Analysis in SQL](https://github.com/mbhagwan/portfolio/tree/main/data-analysis-in-sql)_
