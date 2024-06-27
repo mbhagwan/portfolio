@@ -16,3 +16,6 @@
 
 #### SQL
  * _[SQL: Analyzing Students' Mental Health](https://github.com/mbhagwan/portfolio/tree/main/sql-analyzing-students'-mental-health)_
+
+#### Excel
+ * _[Excel: Sales Dashboard](https://github.com/mbhagwan/portfolio/tree/main/sql-analyzing-students'-mental-health)_
