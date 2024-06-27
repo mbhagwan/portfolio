@@ -18,5 +18,4 @@
  * _[SQL: Analyzing Students' Mental Health](https://github.com/mbhagwan/portfolio/tree/main/sql-analyzing-students'-mental-health)_
 
 #### Excel
- * _[Excel: Sales Dashboard](https://github.com/mbhagwan/portfolio/tree/main/sql-analyzing-students'-mental-health)_
- * Excel: Sales Dashboard<a href="https://github.com/mbhagwan/portfolio/blob/main/superstore-sales-dashboard.pdf"><i>view pdf</i></a>
+ * Excel: Sales Dashboard <a href="https://github.com/mbhagwan/portfolio/blob/main/superstore-sales-dashboard.pdf"><i>view pdf</i></a>
